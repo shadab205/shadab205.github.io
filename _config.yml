@@ -4,7 +4,7 @@
 
 title: Shadab Shaikh # the website title (if blank, full name will be used instead)
 first_name: Shadab
-middle_name: 
+middle_name:
 last_name: Shaikh
 email: me@shadab-shaikh.de
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -70,7 +70,7 @@ x_username: # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: shadab205 # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
+scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID
@@ -90,7 +90,7 @@ wikipedia_id: # your wikipedia id (Case sensitive)
 dblp_url: # your DBLP profile url
 stackoverflow_id: # your stackoverflow id
 kaggle_id: # your kaggle id
-lastfm_id: # your lastfm id
+lastfm_id: sbstek # your lastfm id
 spotify_id: # your spotify id
 pinterest_id: # your pinterest id
 unsplash_id: # your unsplash id
@@ -202,52 +202,52 @@ kramdown:
 # Includes & excludes
 include: ["_pages"]
 exclude:
-  - bin/
-  - CONTRIBUTING.md
-  - CUSTOMIZE.md
-  - Dockerfile
-  - docker-compose.yml
-  - docker-compose-slim.yml
-  - FAQ.md
-  - Gemfile
-  - Gemfile.lock
-  - INSTALL.md
-  - LICENSE
-  - lighthouse_results/
-  - package.json
-  - package-lock.json
-  - _pages/about_einstein.md
-  - purgecss.config.js
-  - README.md
-  - readme_preview/
-  - vendor
+- bin/
+- CONTRIBUTING.md
+- CUSTOMIZE.md
+- Dockerfile
+- docker-compose.yml
+- docker-compose-slim.yml
+- FAQ.md
+- Gemfile
+- Gemfile.lock
+- INSTALL.md
+- LICENSE
+- lighthouse_results/
+- package.json
+- package-lock.json
+- _pages/about_einstein.md
+- purgecss.config.js
+- README.md
+- readme_preview/
+- vendor
 keep_files:
-  - CNAME
-  - .nojekyll
+- CNAME
+- .nojekyll
 
 # Plug-ins
 plugins:
-  - jekyll-archives
-  - jekyll-email-protect
-  - jekyll-get-json
-  - jekyll-imagemagick
-  - jekyll-jupyter-notebook
-  - jekyll-link-attributes
-  - jekyll-minifier
-  - jekyll-paginate-v2
-  - jekyll/scholar
-  - jekyll-sitemap
-  - jekyll-toc
-  - jekyll-twitter-plugin
-  - jemoji
-  #- jekyll-feed
+- jekyll-archives
+- jekyll-email-protect
+- jekyll-get-json
+- jekyll-imagemagick
+- jekyll-jupyter-notebook
+- jekyll-link-attributes
+- jekyll-minifier
+- jekyll-paginate-v2
+- jekyll/scholar
+- jekyll-sitemap
+- jekyll-toc
+- jekyll-twitter-plugin
+- jemoji
+#- jekyll-feed
 
 # Sitemap settings
 defaults:
-  - scope:
-      path: "assets"
-    values:
-      sitemap: false
+- scope:
+    path: "assets"
+  values:
+    sitemap: false
 
 sass:
   style: compressed
@@ -315,8 +315,7 @@ enable_publication_badges:
   google_scholar: true # Google Scholar badge (https://scholar.google.com/intl/en/scholar/citations.html)
 
 # Filter out certain bibtex entry keywords used internally from the bib output
-filtered_bibtex_keywords:
-  [abbr, abstract, altmetric, arxiv, bibtex_show, blog, code, html, pdf, poster, preview, selected, slides, supp, video, website]
+filtered_bibtex_keywords: [abbr, abstract, altmetric, arxiv, bibtex_show, blog, code, html, pdf, poster, preview, selected, slides, supp, video, website]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
 max_author_limit: 3 # leave blank to always show all authors
@@ -345,17 +344,17 @@ external_links:
 imagemagick:
   enabled: true # enables responsive images for your site (recommended, see https://github.com/alshedivat/al-folio/issues/537)
   widths:
-    - 480
-    - 800
-    - 1400
+  - 480
+  - 800
+  - 1400
   input_directories:
-    - assets/img/
+  - assets/img/
   input_formats:
-    - ".jpg"
-    - ".jpeg"
-    - ".png"
-    - ".tiff"
-    - ".gif"
+  - ".jpg"
+  - ".jpeg"
+  - ".png"
+  - ".tiff"
+  - ".gif"
   output_formats:
     webp: "-quality 85"
 
@@ -460,18 +459,13 @@ vega-lite:
 # -----------------------------------------------------------------------------
 
 jekyll_get_json:
-  - data: resume
-    json: assets/json/resume.json # it can also be an url
+- data: resume
+  json: assets/json/resume.json # it can also be an url
 jsonresume:
-  - basics
-  - work
-  - education
-  - publications
-  - projects
-  - volunteer
-  - awards
-  - certificates
-  - skills
-  - languages
-  - interests
-  - references
+- basics
+- work
+- education
+- projects
+- skills
+- languages
+- interests
