@@ -1,48 +1,82 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Shadab Shaikh",
+    "label": "Embedded Systems Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "me@shadab-shaikh.de",
+    "phone": "",
+    "url": "https://shadab-shaikh.de",
+    "summary": "Embedded Systems Engineer currently pursuing Masters in Embedded Systems Design in Hochschule Bremerhaven",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "RUdolfstr. 7",
+      "postalCode": "27570",
+      "city": "Bremerhaven",
+      "countryCode": "DE",
+      "region": "Bremen"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Linkedin",
+        "username": "shadab205",
+        "url": "https://linkedin.com/shadab205"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Testia GmbH",
+      "position": "Automation Working Student",
+      "url": "https://testia.com",
+      "startDate": "2024-01-01",
+      "summary": "In this job position I work with the IT department, where I program Automation Tasks on an Apache Airflow.",
+      "highlights": ["Python","Apache Airflow","ETL"]
+    },
     {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
+      "name": "Nhanz Systems Pvt. Ltd.",
+      "position": "Senior Embedded Systems Engineer",
+      "url": "https://nhanz.in",
+      "startDate": "2024-01-01",
+      "summary": "Nhanz Systems is a company working to revolutionise the EV supplier market with drivetrain techlogies of high price-performance ratio. I was the team lead of the Embedded Systems department where we worked on the development of the motor control firmware. I was also tasked with various other development jobs across the company where my expertise could be utilized.",
+      "highlights": ["Development of Full Software Architecture of a Motor Controller for EVs",
+                     "Research on optimizing the efficiency of the Motor Control Algorithms",
+                     "Module Testing using Ceedling Unit Test for Test Driven Development",
+                     "Defining the HSI (Hardware Software Interface) for the Motor Controller Platform",
+                     "Performance Testing of the Inverter Hardware",
+                     "Bootloader Port and Flash Programming"
+                    ]
+    },
+    {
+      "name": "Inmotive Inc.",
+      "position": "Embedded Systems Engineer",
+      "url": "https://www.inmotive.com",
+      "startDate": "2024-01-01",
+      "summary": "In this job position I work with the IT department, where I program Automation Tasks on an Apache Airflow.",
+      "highlights": ["Firmware development for TMS570 Microcontroller Platform",
+                     "Transmission control program reprogramming",
+                     "Curtis Motor Controller reprogramming",
+                     "System testing on dynamometer"
+                    ]
+    },
+    {
+      "name": "BioDesign Labs Pvt. Ltd.",
+      "position": "Embedded Systems Consultant",
+      "url": "https://biodesigninnovationlabs.com/",
+      "startDate": "2024-01-01",
+      "summary": "In this job position I work with the IT department, where I program Automation Tasks on an Apache Airflow.",
+      "highlights": ["State-machine development for HMI frontend and backend programming",
+                     "Defining the HSI for a Ventilator Controller Architecture",
+                     "Servo Motor Control Programming and UART Communication interfacing.",
+                     "Product validation testing"
+                    ]
+    },
+    {
+      "name": "Emfluxmotors Pvt. Ltd.",
+      "position": "Embedded Systems Engineer",
+      "url": "https://emfluxmotors.com/",
+      "startDate": "2024-01-01",
+      "summary": "In this job position I work with the IT department, where I program Automation Tasks on an Apache Airflow.",
+      "highlights": ["Python","Apache Airflow","ETL"]
+    }    
   ],
   "education": [
     {
@@ -53,7 +87,7 @@
       "studyType": "PhD",
       "startDate": "1905-01-01",
       "endDate": "1905-01-01",
-      "score": "10",
+      "score": "1.5",
       "courses": ["Theory of Relativity"]
     }
   ],

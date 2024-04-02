@@ -17,4 +17,5 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Embedded System Engineer Currentlu pursuing Masters in Embedded Systems Design from [Hochschule Bremerhaven](https://hs-bremerhaven.de). I am currently working as Automation Developer in the capacity of a working student at [Testia GmbH](https://Testia.com).
+Embedded Systems Engineer Currently pursuing Masters in Embedded Systems Design from [Hochschule Bremerhaven](https://hs-bremerhaven.de). I am currently working as Automation Developer in the capacity of a working student at [Testia GmbH](https://Testia.com).
+
