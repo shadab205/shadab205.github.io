@@ -6,15 +6,18 @@
     "email": "me@shadab-shaikh.de",
     "phone": "",
     "url": "https://shadab-shaikh.de",
-    "summary": "Embedded Systems Engineer currently pursuing Masters in Embedded Systems Design in Hochschule Bremerhaven",
+    "summary": "Embedded Systems Engineer and a motivated Student currently pursuing a master's degree in Embedded Systems Design. Valuable working experience in the research and development of software architecture, design and testing of products. Comprehensive knowledge in the field of Embedded Systems and Computer Programming.",
     "location": {
-      "address": "RUdolfstr. 7",
       "postalCode": "27570",
       "city": "Bremerhaven",
-      "countryCode": "DE",
-      "region": "Bremen"
+      "countryCode": "DE"
     },
     "profiles": [
+      {
+        "network": "github",
+        "username": "shadab205",
+        "url": "https://github.com/shadab205"
+      },
       {
         "network": "Linkedin",
         "username": "shadab205",
@@ -35,7 +38,8 @@
       "name": "Nhanz Systems Pvt. Ltd.",
       "position": "Senior Embedded Systems Engineer",
       "url": "https://nhanz.in",
-      "startDate": "2024-01-01",
+      "startDate": "2022-07-01",
+      "endDate": "2023-03-31",
       "summary": "Nhanz Systems is a company working to revolutionise the EV supplier market with drivetrain techlogies of high price-performance ratio. I was the team lead of the Embedded Systems department where we worked on the development of the motor control firmware. I was also tasked with various other development jobs across the company where my expertise could be utilized.",
       "highlights": ["Development of Full Software Architecture of a Motor Controller for EVs",
                      "Research on optimizing the efficiency of the Motor Control Algorithms",
@@ -49,8 +53,9 @@
       "name": "Inmotive Inc.",
       "position": "Embedded Systems Engineer",
       "url": "https://www.inmotive.com",
-      "startDate": "2024-01-01",
-      "summary": "In this job position I work with the IT department, where I program Automation Tasks on an Apache Airflow.",
+      "startDate": "2020-07-01",
+      "endDate": "2022-06-30",
+      "summary": "Inmotive Inc. is working on a novel patented 2 speed automatic transmision. My task was to port their firmware designed for a Kia motors vehicle to their Client Tata Motors vehicle. I also remotely supported them in firmware development tasks.",
       "highlights": ["Firmware development for TMS570 Microcontroller Platform",
                      "Transmission control program reprogramming",
                      "Curtis Motor Controller reprogramming",
@@ -61,8 +66,9 @@
       "name": "BioDesign Labs Pvt. Ltd.",
       "position": "Embedded Systems Consultant",
       "url": "https://biodesigninnovationlabs.com/",
-      "startDate": "2024-01-01",
-      "summary": "In this job position I work with the IT department, where I program Automation Tasks on an Apache Airflow.",
+      "startDate": "2020-05-01",
+      "endDate": "2020-06-30",
+      "summary": "Embedded Systems firmware consulting and development for RespirAid breathing aid device.",
       "highlights": ["State-machine development for HMI frontend and backend programming",
                      "Defining the HSI for a Ventilator Controller Architecture",
                      "Servo Motor Control Programming and UART Communication interfacing.",
@@ -73,161 +79,138 @@
       "name": "Emfluxmotors Pvt. Ltd.",
       "position": "Embedded Systems Engineer",
       "url": "https://emfluxmotors.com/",
-      "startDate": "2024-01-01",
-      "summary": "In this job position I work with the IT department, where I program Automation Tasks on an Apache Airflow.",
-      "highlights": ["Python","Apache Airflow","ETL"]
+      "startDate": "2019-07-01",
+      "endDate": "2020-04-30",
+      "summary": "My professional journey began with Emflux Motors where I joined as an Embedded Systems Intern. I was assigned to the motor controller team, where I was developing modules for an Induction Motor firnware. Later on I was handed a fulltime position and I took on various other development tasks.",
+      "highlights": ["Direct Software Development for the EMFLUX ONE Electric Motorbike",
+                     "Simulink based Model Design of the Motor Controller Algorithm",
+                     "Induction Motor Control Algorithm Development",
+                     "Data Acquisition Software in Embedded Linux & Hardware Development",
+                     "CAN Communication Architecture Design for Prototype ECU/Master Controller"
+                    ]
     }    
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "Hochschule Bremerhaven",
+      "location": "Bremerhaven, Germany",
+      "url": "https://www.hs-bremerhaven.de/",
+      "area": "Embedded Systems Design",
+      "studyType": "Masters",
+      "startDate": "2023-04-01",
       "score": "1.5",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "courses": ["Model Based Design","Digital Systems", "VHDL", "Discrete Control Systems", "ISM"]
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
+    "institution": "Savitribai Phule Pune University",
+    "location": "Pune, India",
+    "url": "https://www.unipune.ac.in/",
+    "area": "Electronics and Communication",
+    "studyType": "Bachelors",
+    "startDate": "2014-07-01",
+    "endDate" : "2018-06-01",
+    "score": "A+",
+    "courses": ["Analog and Digital Communication","Analog and Digital Circuits", "Control Systems", "Image Processing"]
+  }
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Embedded Systems Firmware",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Embedded C",
+        "C/C++",
+        "Micropython"
       ]
+    },
+    {
+      "name": "General Software Development",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Python",
+        "C/C++",
+        "Matlab/Simulink"
+      ]  
+    },
+    {
+      "name": "Other Skills",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Motor Control Algorithms",
+        "EV Architecture",
+        "Image Processing",
+        "RTOS",
+        "Model Based Design",
+        "HIL/SIL Testing",
+        "ARM Microcontrollers",
+        "Agile Project Management",
+        "GIT version Control",
+        "Apache Airflow",
+        "Doxygen",
+        "CAN/I2C/SPI"
+      ]  
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "English",
       "fluency": "Native speaker",
       "icon": ""
-    },
+    },    
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "German",
+      "fluency": "Intermediate",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Automotive",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Electric Vehicles",
+        "Autonomous Driving"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Embedded Systems",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Microcontrollers",
+        "ARM",
+        "RISC-V",
+        "RUST",
+        "Bootloader"
+      ]
+    },
+    {
+      "name": "Internet Technologies",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Linux",
+        "Webservers",
+        "Webhosting"
+      ]
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Semi Autonomous Driving",
+      "summary": "The aim of a the project was to demonstrate Semi Autonomous Parking where a vehicle is scannig for appropriate parking spaces and then after detection of a valid parking space a parking maneuvre was executed. A Simulink based simulator was first designed to validate the parking space scanning algorithm and the trjectory planning module. The project was then implemented on Lego Mindstorm platform, which posed various challenges due to its limited sensor interfacing support.",
+      "highlights": ["Autonomous Driving","Micropython", "Simulink"],
+      "startDate": "2023-10-14",
+      "endDate": "2024-03-06",
+      "url": "https://github.com/shadab205"
+    },
+    {
+      "name": "e-Health Monitoring using rPPG",
+      "summary": "The aim of this project was to detect heartrate of a person utiliying Image Processing and a video of a person's face.", 
+      "highlights": ["Image Processing","Matlab", "Simulink"],
+      "startDate": "2017-10-01",
+      "endDate": "2018-05-31",
+      "url": "https://github.com/shadab205"
     }
   ]
 }
