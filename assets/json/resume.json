@@ -40,12 +40,11 @@
       "url": "https://nhanz.in",
       "startDate": "2022-07-01",
       "endDate": "2023-03-31",
-      "summary": "Nhanz Systems is a company working to revolutionise the EV supplier market with drivetrain techlogies of high price-performance ratio. I was the team lead of the Embedded Systems department where we worked on the development of the motor control firmware. I was also tasked with various other development jobs across the company where my expertise could be utilized.",
-      "highlights": ["Development of Full Software Architecture of a Motor Controller for EVs",
-                     "Research on optimizing the efficiency of the Motor Control Algorithms",
-                     "Module Testing using Ceedling Unit Test for Test Driven Development",
-                     "Defining the HSI (Hardware Software Interface) for the Motor Controller Platform",
-                     "Performance Testing of the Inverter Hardware",
+      "summary": "At Nhanz Systems I was the team lead of the Embedded Systems department responsible for the development of the motor control firmware. I was also tasked with various other development jobs across the company where my expertise could be utilized.",
+      "highlights": ["Software Architecture of a Motor Controller for EVs",
+                     "Optimizing the efficiency of the Motor Control Algorithms",
+                     "Test Driven Development using Ceedling Unit Test",
+                     "HSI (Hardware Software Interface) for the Motor Controller Platform",
                      "Bootloader Port and Flash Programming"
                     ]
     },
@@ -55,7 +54,7 @@
       "url": "https://www.inmotive.com",
       "startDate": "2020-07-01",
       "endDate": "2022-06-30",
-      "summary": "Inmotive Inc. is working on a novel patented 2 speed automatic transmision. My task was to port their firmware designed for a Kia motors vehicle to their Client Tata Motors vehicle. I also remotely supported them in firmware development tasks.",
+      "summary": "Inmotive Inc. is working on a novel patented 2 speed automatic transmision. My task was to port their original firmware to their client vehicle. I also remotely supported them in firmware development tasks.",
       "highlights": ["Firmware development for TMS570 Microcontroller Platform",
                      "Transmission control program reprogramming",
                      "Curtis Motor Controller reprogramming",
@@ -71,7 +70,7 @@
       "summary": "Embedded Systems firmware consulting and development for RespirAid breathing aid device.",
       "highlights": ["State-machine development for HMI frontend and backend programming",
                      "Defining the HSI for a Ventilator Controller Architecture",
-                     "Servo Motor Control Programming and UART Communication interfacing.",
+                     "Servo Motor Control Programming and UART Communication interfacing",
                      "Product validation testing"
                     ]
     },
@@ -82,7 +81,7 @@
       "startDate": "2019-07-01",
       "endDate": "2020-04-30",
       "summary": "My professional journey began with Emflux Motors where I joined as an Embedded Systems Intern. I was assigned to the motor controller team, where I was developing modules for an Induction Motor firnware. Later on I was handed a fulltime position and I took on various other development tasks.",
-      "highlights": ["Direct Software Development for the EMFLUX ONE Electric Motorbike",
+      "highlights": ["Direct Software Development for the EMFLUX ONE Electric Superbike Prototype",
                      "Simulink based Model Design of the Motor Controller Algorithm",
                      "Induction Motor Control Algorithm Development",
                      "Data Acquisition Software in Embedded Linux & Hardware Development",
@@ -206,7 +205,7 @@
     },
     {
       "name": "e-Health Monitoring using rPPG",
-      "summary": "The aim of this project was to detect heartrate of a person utiliying Image Processing and a video of a person's face.", 
+      "summary": "The aim of this project was to detect heartrate of a person utiliying Image Processing and a video of a person's face. Heartrate was extracted by variations of the skin color caused due to the blood being pumped. Signal processing methods on the RGB data were applied to extract the heartrate.", 
       "highlights": ["Image Processing","Matlab", "Simulink"],
       "startDate": "2017-10-01",
       "endDate": "2018-05-31",
