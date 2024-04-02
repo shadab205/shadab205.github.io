@@ -92,7 +92,7 @@
   "education": [
     {
       "institution": "Hochschule Bremerhaven",
-      "location": "Bremerhaven, Germany",
+      "location": "Bremerhaven,\nGermany",
       "url": "https://www.hs-bremerhaven.de/",
       "area": "Embedded Systems Design",
       "studyType": "Masters",
@@ -102,7 +102,7 @@
     },
     {
     "institution": "Savitribai Phule Pune University",
-    "location": "Pune, India",
+    "location": "Pune,\nIndia",
     "url": "https://www.unipune.ac.in/",
     "area": "Electronics and Communication",
     "studyType": "Bachelors",
