@@ -6,7 +6,9 @@ title: Shadab Shaikh # the website title (if blank, full name will be used inste
 first_name: Shadab
 middle_name:
 last_name: Shaikh
-email: shadabsshaikh205@gmail.com, me@shadab-shaikh.de
+email: >
+  shadabsshaikh205@gmail.com
+  me@shadab-shaikh.de
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   My Personal Website.
 footer_text:
