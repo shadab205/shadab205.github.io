@@ -1,10 +1,10 @@
 {
   "basics": {
     "name": "Shadab Shaikh",
-    "label": "Embedded Systems Engineer",
+    "title": "Embedded Systems Engineer",
     "image": "",
-    "email1": "shadabsshaikh205@gmail.com",
-    "email2": "me@shadab-shaikh.de",
+    "Email 1": "shadabsshaikh205@gmail.com",
+    "Email 2": "me@shadab-shaikh.de",
     "phone": "",
     "url": "https://shadab-shaikh.de",
     "summary": "Embedded Systems Engineer and a motivated Student currently pursuing a master's degree in Embedded Systems Design. Valuable working experience in the research and development of software architecture, design and testing of products. Comprehensive knowledge in the field of Embedded Systems and Computer Programming.",
