@@ -9,8 +9,8 @@
     "url": "https://shadab-shaikh.de",
     "summary": "Embedded Systems Engineer and a motivated Student currently pursuing a master's degree in Embedded Systems Design. Valuable working experience in the research and development of software architecture, design and testing of products. Comprehensive knowledge in the field of Embedded Systems and Computer Programming.",
     "location": {
-      "postalCode": "27570",
-      "city": "Bremerhaven",
+      "postalCode": "93055",
+      "city": "Regensburg",
       "countryCode": "DE"
     },
     "profiles": [
@@ -28,11 +28,20 @@
   },
   "work": [
     {
+      "name": "AVL Software and Functions GmbH",
+      "position": "Master Thesis",
+      "url": "https://www.avl-functions.com",
+      "startDate": "2024-08-01",
+      "summary": "Efficient On-Device Traffic Sign Detection Using Edge Machine Learning Designing and optimizing machine learning models for traffic sign detection, focusing on resource efficiency for deployment on low-power embedded devices. Evaluating trade-offs between computational performance and resource constraints, with an emphasis on real-time inferencing on CPU-based systems.",
+      "highlights": [" C++","Machine Learning","Tensorflow"]
+    },
+	{
       "name": "Testia GmbH",
       "position": "Automation Working Student",
       "url": "https://testia.com",
       "startDate": "2024-01-01",
-      "summary": "In this job position I work with the IT department, where I program Automation Tasks on an Apache Airflow.",
+	  "endDate":"2024-07-30",
+	  "summary": "In this job position I worked with the IT department, where I programmed Automation Tasks on an Apache Airflow.",
       "highlights": ["Python","Apache Airflow","ETL"]
     },
     {
